@@ -1,0 +1,32 @@
+Project Requirements - Predictive Diagnostic Platform
+1. Software Requirements
+Operating System: Windows, macOS, or Linux
+Programming Language: Python 3.8+
+Libraries & Frameworks:
+Data Processing: numpy, pandas
+Machine Learning: scikit-learn, tensorflow, torch
+Data Visualization: matplotlib, seaborn, plotly
+Deployment (Optional): streamlit, flask
+IDE: Jupyter Notebook, VS Code, PyCharm
+Version Control: Git & GitHub
+2. Hardware Requirements
+Minimum Requirements:
+
+CPU: Intel i5 / AMD Ryzen 5
+RAM: 8GB
+Storage: 20GB free space
+GPU: Integrated graphics (for basic ML models)
+Recommended for Deep Learning Models:
+
+CPU: Intel i7+ / AMD Ryzen 7+
+RAM: 16GB+
+Storage: 50GB SSD
+GPU: NVIDIA GTX 1660+ / RTX 3060+ (for TensorFlow/PyTorch)
+3. Additional Resources
+Datasets:
+Public medical datasets (Kaggle, UCI, NIH)
+Custom patient records (if applicable)
+APIs (Optional):
+OpenAI, Google Cloud AI, or similar for advanced predictions
+Cloud/Storage (Optional):
+Google Drive, AWS S3, or local storage for large datasets
