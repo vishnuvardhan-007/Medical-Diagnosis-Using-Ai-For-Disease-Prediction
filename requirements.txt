@@ -1,8 +1,11 @@
+numpy==2.2.3
+pandas==2.2.3
+scikit_learn==1.6.1
+streamlit==1.42.1
 Project Requirements - Medical-Diagnosis-Using-Ai-For-Disease-Prediction
 Software Requirements:-
 Operating System: Windows
 Programming Language: Python 3.8+
-Libraries & Frameworks:
 Data Processing: numpy, pandas
 Machine Learning: scikit-learn
 Data Visualization: matplotlib, seaborn
